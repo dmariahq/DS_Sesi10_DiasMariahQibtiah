@@ -23,6 +23,6 @@ Then(/^Dias should see error "(.*)"$/, async (dynamicMessage) => {
     await LoginPage.validateLockedOutUserError(dynamicMessage)
 })
 
-Then(/^Dias should see error "(.*)"$/, async (dynamicMessage) => {
-    await LoginPage.validateLockedOutUserError(dynamicMessage)
+Then(/^Dias should see home page$/, async() => {
+    await LoginPage.validateHomepage(dynamicMessage)
 })
