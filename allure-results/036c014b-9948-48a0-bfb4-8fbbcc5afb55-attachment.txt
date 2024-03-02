@@ -1,3 +1,0 @@
-{
-  "text": "process.env.PASSWORD_SAUCEDEMO"
-}

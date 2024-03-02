@@ -13,8 +13,5 @@
     "wdio": "wdio run ./wdio.conf.js --cucumberOpts.tags",
     "generate-allure": ".\\node_modules\\.bin\\allure generate allure-results/ --clean",
     "open-allure": ".\\node_modules\\.bin\\allure open"
-       
-    }
-
   }
-
+}
