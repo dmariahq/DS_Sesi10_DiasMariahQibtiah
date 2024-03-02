@@ -1,1 +1,0 @@
-# DS_Sesi10_DiasMariahQibtiah

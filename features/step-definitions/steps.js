@@ -12,7 +12,7 @@ When(/^Dias login with "(.*)" credential$/, async (username) => {
 })
 
 Then(/^Dias should see home page$/, async() => {
-    await HomePage.validateHomePage()
+    await HomePage.validateHomepage()
 })
 
 Then(/^Dias should see error "(.*)"$/, async (dynamicMessage) => {
